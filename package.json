@@ -1,0 +1,84 @@
+{
+  "name": "dijital-kahramanlar",
+  "version": "0.0.1",
+  "description": "Dijital Kahramanlar - okul uyumlu dijital farkindalik oyun paketi",
+  "author": "Dijital Kahramanlar Ekibi",
+  "main": "electron/main.js",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0 --port 5173 --strictPort",
+    "build": "vite build",
+    "build:pages": "npm run build && node scripts/prepare-pages.mjs",
+    "build:appimage": "npm run build && electron-builder --linux AppImage",
+    "build:mac": "npm run build && electron-builder --mac",
+    "build:win": "npm run build && electron-builder --win nsis",
+    "build:win:portable": "npm run build && electron-builder --win portable",
+    "build:win:all": "npm run build && electron-builder --win nsis portable",
+    "preview": "vite preview",
+    "electron:app": "electron .",
+    "electron": "concurrently -k \"npm run dev\" \"npm run electron:open\"",
+    "electron:open": "wait-on tcp:5173 && electron .",
+    "start": "npm run electron"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "latest",
+    "concurrently": "latest",
+    "phaser": "latest",
+    "vite": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "electron": "latest",
+    "electron-builder": "^26.0.12",
+    "wait-on": "^8.0.1"
+  },
+  "build": {
+    "appId": "com.dijitalkahramanlar.app",
+    "productName": "Dijital Kahramanlar",
+    "artifactName": "${productName}-${version}-${os}-${arch}.${ext}",
+    "directories": {
+      "output": "release",
+      "buildResources": "resources"
+    },
+    "files": [
+      "dist/**",
+      "electron/**",
+      "src/data/defaultSession.json",
+      "dkahramanlar.png",
+      "package.json"
+    ],
+    "linux": {
+      "target": [
+        "AppImage"
+      ],
+      "category": "Education",
+      "icon": "icon.png"
+    },
+    "win": {
+      "icon": "icon.ico",
+      "target": [
+        {
+          "target": "nsis",
+          "arch": [
+            "x64"
+          ]
+        },
+        {
+          "target": "portable",
+          "arch": [
+            "x64"
+          ]
+        }
+      ]
+    },
+    "nsis": {
+      "oneClick": false,
+      "allowToChangeInstallationDirectory": true,
+      "createDesktopShortcut": true,
+      "createStartMenuShortcut": true,
+      "installerIcon": "resources/icon.ico",
+      "uninstallerIcon": "resources/icon.ico",
+      "installerHeaderIcon": "resources/icon.ico"
+    }
+  }
+}
