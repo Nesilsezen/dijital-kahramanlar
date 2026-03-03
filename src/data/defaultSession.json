@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 7,
+  "phase": "intro",
+  "activeGameIndex": 0,
+  "activeGroup": "A",
+  "roundStatus": "idle",
+  "timer": {
+    "durationSeconds": 90,
+    "startedAt": null,
+    "endsAt": null
+  },
+  "gameState": {
+    "transition": {
+      "balloonPopped": false
+    },
+    "turns": {
+      "A": {
+        "status": "waiting",
+        "questionIndex": 0,
+        "answered": 0,
+        "correct": 0,
+        "balloonLevel": 0
+      },
+      "B": {
+        "status": "waiting",
+        "questionIndex": 0,
+        "answered": 0,
+        "correct": 0,
+        "balloonLevel": 0
+      }
+    }
+  },
+  "groups": {
+    "A": {
+      "name": "A Grubu",
+      "score": 0,
+      "completedGames": []
+    },
+    "B": {
+      "name": "B Grubu",
+      "score": 0,
+      "completedGames": []
+    }
+  },
+  "games": [
+    {
+      "id": "balloon",
+      "title": "Balon Oyunu",
+      "durationSeconds": 90,
+      "pointsPerCorrect": 10,
+      "pointsPerWrong": -10
+    },
+    {
+      "id": "worm",
+      "title": "Solucan Oyunu",
+      "durationSeconds": 90,
+      "pointsPerCorrect": 10,
+      "pointsPerWrong": -10,
+      "foodValues": [10, 20, 30],
+      "stepMs": 280
+    },
+    {
+      "id": "puzzle",
+      "title": "Puzzle Oyunu",
+      "durationSeconds": 90,
+      "pointsPerCorrect": 10,
+      "pointsPerWrong": 0,
+      "cols": 3,
+      "rows": 3,
+      "previewSeconds": 3,
+      "scatterMs": 760
+    }
+  ]
+}
