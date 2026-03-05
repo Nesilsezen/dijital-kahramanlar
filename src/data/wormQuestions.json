@@ -1,0 +1,855 @@
+{
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Kişisel bilgilerimizi internetteki herkesle paylaşabiliriz.",
+      "answerOptions": [
+        {
+          "text": "Doğru",
+          "rationale": "Kişisel bilgilerin herkesle paylaşılması gizlilik ve güvenlik riskleri yaratır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yanlış",
+          "rationale": "Kişisel bilgiler yalnızca güvenilir ortamlarda ve gerektiğinde paylaşılmalıdır.",
+          "isCorrect": true
+        }
+      ],
+      "hint": "İnternette paylaştığınız bilgilerin kimler tarafından görülebileceğini düşünün."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Adımızı ve soyadımızı güvenmediğimiz sitelere yazmamalıyız.",
+      "answerOptions": [
+        {
+          "text": "Doğru",
+          "rationale": "Güvenilir olmayan sitelere kişisel bilgi girmek gizliliğinizi tehlikeye atabilir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yanlış",
+          "rationale": "Her siteye adınızı ve soyadınızı yazmak kişisel güvenliğinizi korumaz.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Güvenmediğiniz sitelerin amaçlarını ve bilgilerinizi nasıl kullanabileceklerini düşünün."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Ev adresimizi tanımadığımız kişilere vermek tehlikeli olabilir.",
+      "answerOptions": [
+        {
+          "text": "Doğru",
+          "rationale": "Ev adresi gibi gizli bilgiler tanınmayan kişilerle paylaşılmamalıdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yanlış",
+          "rationale": "Adres bilgisi de tıpkı diğer kişisel bilgiler gibi korunması gereken önemli bir veridir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Adresinizin başkaları tarafından bilinmesi ne gibi sonuçlar doğurabilir?"
+    },
+    {
+      "questionNumber": 4,
+      "question": "İnternetteki arkadaşlarımıza telefon numaramızı rahatlıkla verebiliriz.",
+      "answerOptions": [
+        {
+          "text": "Doğru",
+          "rationale": "İnternetteki kişileri her zaman tam olarak tanıyamayacağımız için telefon numarası vermek risklidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yanlış",
+          "rationale": "Telefon numaranızı tanımadığınız kişilerle paylaşmak güvenliğinizi riske atabilir.",
+          "isCorrect": true
+        }
+      ],
+      "hint": "İnternetteki arkadaşlarınıza gerçekten ne kadar güvendiğinizi gözden geçirin."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Fotoğraflarımız bizim kişisel bilgilerimizden sayılır.",
+      "answerOptions": [
+        {
+          "text": "Doğru",
+          "rationale": "Fotoğraflarımız kimliğimizi ve çevremizi ele verebilecek kişisel bilgilerdendir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yanlış",
+          "rationale": "Yüzümüzün ve konumumuzun göründüğü fotoğraflar kişisel veri sayılır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Fotoğraflarınızda hangi detayların yer aldığına dikkat edin."
+    },
+    {
+      "questionNumber": 6,
+      "question": "Okul adımızı ve sınıfımızı internette herkese söyleyebiliriz.",
+      "answerOptions": [
+        {
+          "text": "Doğru",
+          "rationale": "Bu bilgilerin herkese açık olması güvenliğinizi tehlikeye sokabilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yanlış",
+          "rationale": "Okul ve sınıf bilgilerinizi kötü niyetli kişilerden korumalısınız.",
+          "isCorrect": true
+        }
+      ],
+      "hint": "Bu bilgileri bir yabancının bilmesi neleri kolaylaştırabilir?"
+    },
+    {
+      "questionNumber": 7,
+      "question": "Güvenilir sitelerde bile kimlik numaramızı girmeden önce ailemize danışmalıyız.",
+      "answerOptions": [
+        {
+          "text": "Doğru",
+          "rationale": "T.C. kimlik numarası çok hassas bir bilgidir ve mutlaka aile kontrolünde girilmelidir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yanlış",
+          "rationale": "Güvenilir sitelerde bile olsa kimlik numaranızı paylaşırken dikkatli olmalısınız.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "T.C. kimlik numaranızın önemini ve neden korunması gerektiğini hatırlayın."
+    },
+    {
+      "questionNumber": 8,
+      "question": "İnternette kullandığımız takma isimlerin kişisel bilgilerimizi içermemesi daha güvenlidir.",
+      "answerOptions": [
+        {
+          "text": "Doğru",
+          "rationale": "Takma isimlerin kişisel bilgileri içermemesi gizliliğinizi korur.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yanlış",
+          "rationale": "Takma isminizde adınızı ve soyadınızı kullanmak güvenliği azaltır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Kullanıcı adlarında hangi bilgileri kullanmaktan kaçınmalıyız?"
+    },
+    {
+      "questionNumber": 9,
+      "question": "Sadece öğretmenlerimizin bildiği bilgileri internette paylaşmamızda sakınca yoktur.",
+      "answerOptions": [
+        {
+          "text": "Doğru",
+          "rationale": "Öğretmenlerin bildiği özel bilgilerin internette paylaşılması güvenli değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yanlış",
+          "rationale": "Gizli veya özel kalması gereken hiçbir bilgiyi internette paylaşmamalısınız.",
+          "isCorrect": true
+        }
+      ],
+      "hint": "Özel bilgilerin kimlerle paylaşılması gerektiğine odaklanın."
+    },
+    {
+      "questionNumber": 10,
+      "question": "E-posta adresimiz kişisel bilgimizdir ve korunmalıdır.",
+      "answerOptions": [
+        {
+          "text": "Doğru",
+          "rationale": "E-posta adresiniz sizi tanımlayan kişisel bir bilgidir ve güvende tutulmalıdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yanlış",
+          "rationale": "E-posta adresleri sadece iletişim için değil, güvenlik amaçlı da kullanılır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "E-posta hesabınızın nelere erişimi olduğunu düşünün."
+    },
+    {
+      "questionNumber": 11,
+      "question": "Sosyal medyada doğum tarihimizi açıkça yazmak güvenlidir.",
+      "answerOptions": [
+        {
+          "text": "Doğru",
+          "rationale": "Doğum tarihi bilgisi kötü niyetli kişiler tarafından kullanılabilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yanlış",
+          "rationale": "Doğum tarihinizi herkesle paylaşmak kimlik hırsızlığı gibi riskler yaratabilir.",
+          "isCorrect": true
+        }
+      ],
+      "hint": "Doğum tarihinizin güvenlik sorularında kullanılıp kullanılmadığını düşünün."
+    },
+    {
+      "questionNumber": 12,
+      "question": "İnternet ortamında şakayla da olsa annemizin kızlık soyadını paylaşmamalıyız.",
+      "answerOptions": [
+        {
+          "text": "Doğru",
+          "rationale": "Anne kızlık soyadı önemli bir güvenlik bilgisidir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yanlış",
+          "rationale": "Şaka amacıyla da olsa bu tür kritik bilgileri internette paylaşmak tehlikelidir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Anne kızlık soyadı genellikle nerelerde doğrulama için kullanılır?"
+    },
+    {
+      "questionNumber": 13,
+      "question": "İşimizi garantiye almak için kişisel bilgilerimizi her siteye kaydetmeliyiz.",
+      "answerOptions": [
+        {
+          "text": "Doğru",
+          "rationale": "Bilgilerinizi her siteye kaydetmek veri hırsızlığı riskini artırır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yanlış",
+          "rationale": "Kişisel bilgileri sadece güvenilir ve gerekli olan sitelere kaydetmelisiniz.",
+          "isCorrect": true
+        }
+      ],
+      "hint": "Bilgilerinizin gereksiz yere her yerde bulunması neden sakıncalıdır?"
+    },
+    {
+      "questionNumber": 14,
+      "question": "Anne veya babamızın izni olmadan internette form doldurmamalıyız.",
+      "answerOptions": [
+        {
+          "text": "Doğru",
+          "rationale": "İnternette form doldurmak kişisel bilgilerin paylaşılmasına yol açabilir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yanlış",
+          "rationale": "Formlardaki bilgilerin nereye gittiğini bilmeden doldurmak güvenli değildir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Form doldururken büyüklerinizden neden yardım almalısınız?"
+    },
+    {
+      "questionNumber": 15,
+      "question": "T.C. kimlik numaramızı internette sadece arkadaşlarımızla paylaşabiliriz.",
+      "answerOptions": [
+        {
+          "text": "Doğru",
+          "rationale": "Arkadaşlarınızla da olsa T.C. kimlik numaranızı paylaşmamalısınız.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yanlış",
+          "rationale": "T.C. kimlik numarası kişiye özeldir ve kesinlikle kimseyle paylaşılmamalıdır.",
+          "isCorrect": true
+        }
+      ],
+      "hint": "T.C. kimlik numaranız sizin yasal kimliğinizi temsil eder."
+    },
+    {
+      "questionNumber": 16,
+      "question": "İnternette karşımıza çıkan \"Bu bilgileri bize gönderin\" uyarılarında ailemize haber vermeliyiz.",
+      "answerOptions": [
+        {
+          "text": "Doğru",
+          "rationale": "Bu tür durumlarda büyüklerinizden yardım almanız en güvenli yoldur.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yanlış",
+          "rationale": "Yönlendirmelere tek başınıza uymak sizi tehlikelere açık hale getirebilir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bilinmeyen uyarılar ve istekler karşısında kimlere danışmalısınız?"
+    },
+    {
+      "questionNumber": 17,
+      "question": "Çevrimiçi oyunlarda kişisel bilgilerimizi gizli tutmak önemlidir.",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "Doğru",
+          "rationale": "Oyun platformlarındaki yabancılara karşı da kişisel bilgilerinizi korumalısınız.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yanlış",
+          "rationale": "Oyun ortamları da gerçek dünya kadar gizlilik gerektirir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Oyun oynarken sohbet penceresinde hangi bilgileri söylememelisiniz?"
+    },
+    {
+      "questionNumber": 18,
+      "question": "Şifremizi arkadaşımız istese bile onunla paylaşmamalıyız.",
+      "answerOptions": [
+        {
+          "text": "Doğru",
+          "rationale": "Şifreler tamamen kişiseldir ve en yakın arkadaşınızla bile paylaşılmamalıdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yanlış",
+          "rationale": "Şifrenizi başkasıyla paylaşmak hesabınızın ele geçirilmesine neden olabilir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Şifrenin sahibi sizsiniz ve o hesabın anahtarıdır."
+    },
+    {
+      "questionNumber": 19,
+      "question": "Şifremizde sadece ardışık sayıları (1234) kullanmak şifremizi güçlü yapar.",
+      "answerOptions": [
+        {
+          "text": "Doğru",
+          "rationale": "Ardışık sayılar kolay tahmin edilebilir ve zayıf şifreler oluşturur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yanlış",
+          "rationale": "Güçlü bir şifre tahmin edilmesi zor, karışık karakterlerden oluşmalıdır.",
+          "isCorrect": true
+        }
+      ],
+      "hint": "Kolay tahmin edilebilen şifreler ne kadar güvenlidir?"
+    },
+    {
+      "questionNumber": 20,
+      "question": "Şifrelerimiz hem harf hem sayı hem de özel karakterler içermelidir.",
+      "answerOptions": [
+        {
+          "text": "Doğru",
+          "rationale": "Farklı karakter türlerini kullanmak şifrenin kırılmasını zorlaştırır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yanlış",
+          "rationale": "Sadece harf veya sadece sayı içeren şifreler daha kolay tahmin edilebilir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Güçlü şifrelerin yapısında nelerin bulunması önerilir?"
+    },
+    {
+      "questionNumber": 21,
+      "question": "Evcil hayvanımızın ismini şifre yapmak çok güvenlidir.",
+      "answerOptions": [
+        {
+          "text": "Doğru",
+          "rationale": "Evcil hayvanınızın ismi sosyal medyada bilinebilir ve kolay tahmin edilebilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yanlış",
+          "rationale": "Kolay tahmin edilebilen kişisel kelimeler şifre olarak kullanılmamalıdır.",
+          "isCorrect": true
+        }
+      ],
+      "hint": "Sizinle ilgili bilgileri bilen birisi evcil hayvanınızın ismini tahmin edebilir mi?"
+    },
+    {
+      "questionNumber": 22,
+      "question": "Doğum tarihimizi şifre olarak kullanmak kolay tahmin edilebilir.",
+      "answerOptions": [
+        {
+          "text": "Doğru",
+          "rationale": "Doğum tarihi gibi herkesin ulaşabileceği bilgiler şifre olarak kullanılmamalıdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yanlış",
+          "rationale": "Sosyal medyada görülebilen bilgiler kolayca tahmin edilebilir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Doğum tarihiniz başkaları tarafından öğrenilmesi zor bir bilgi midir?"
+    },
+    {
+      "questionNumber": 23,
+      "question": "Şifremizi bir kağıda yazıp monitörün üzerine yapıştırmak güvenlidir.",
+      "answerOptions": [
+        {
+          "text": "Doğru",
+          "rationale": "Açıkta duran bir şifreyi herkes görebilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yanlış",
+          "rationale": "Şifreler hiçbir zaman başkalarının görebileceği açık yerlere yazılmamalıdır.",
+          "isCorrect": true
+        }
+      ],
+      "hint": "Şifrenizi odanızda bir yere yazıp asarsanız ne olur?"
+    },
+    {
+      "questionNumber": 24,
+      "question": "Farklı hesaplarımız için aynı şifreyi kullanmalıyız.",
+      "answerOptions": [
+        {
+          "text": "Doğru",
+          "rationale": "Aynı şifreyi kullanmak, bir hesabın ele geçirilmesi durumunda diğerlerinin de tehlikeye girmesine neden olur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yanlış",
+          "rationale": "Her hesap için farklı ve benzersiz bir şifre kullanılmalıdır.",
+          "isCorrect": true
+        }
+      ],
+      "hint": "Tüm kapılarınızı tek bir anahtarla açmanın riskleri nelerdir?"
+    },
+    {
+      "questionNumber": 25,
+      "question": "Şifrelerimizi düzenli olarak değiştirmemiz gerekir.",
+      "answerOptions": [
+        {
+          "text": "Doğru",
+          "rationale": "Şifreleri periyodik olarak değiştirmek güvenliği artıran bir önlemdir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yanlış",
+          "rationale": "Şifreyi uzun süre aynı bırakmak güvenlik açıklarına yol açabilir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Şifrelerimizin neden zamanla yenilenmesi gerekebilir?"
+    },
+    {
+      "questionNumber": 26,
+      "question": "Güçlü bir şifre en az sekiz karakterden oluşmalıdır.",
+      "answerOptions": [
+        {
+          "text": "Doğru",
+          "rationale": "Uzun şifrelerin kırılması çok daha zordur ve uzmanlar tarafından önerilir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yanlış",
+          "rationale": "Kısa şifreler çok kolay tahmin edilebilir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Şifrenizin uzunluğu güvenliğini nasıl etkiler?"
+    },
+    {
+      "questionNumber": 27,
+      "question": "Şifremizi tahmin etmesi zor ama bizim için hatırlaması kolay bir şey seçmeliyiz.",
+      "answerOptions": [
+        {
+          "text": "Doğru",
+          "rationale": "İdeal şifre, başkalarının tahmin edemeyeceği ama kullanıcının hatırlayabileceği şekilde kurgulanır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yanlış",
+          "rationale": "Sırf hatırlaması zor diye şifreyi basit seçmek güvenlik riskidir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Kelimelerden ve sayılardan kendi şifre cümlenizi oluşturmayı deneyebilirsiniz."
+    },
+    {
+      "questionNumber": 28,
+      "question": "\"Şifreyi hatırla\" seçeneğini halka açık bilgisayarlarda işaretlemeliyiz.",
+      "answerOptions": [
+        {
+          "text": "Doğru",
+          "rationale": "Halka açık bilgisayarlarda şifrenizi kaydetmek, başkalarının hesabınıza girmesine neden olur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yanlış",
+          "rationale": "Ortak kullanılan bilgisayarlarda şifrelerin kaydedilmemesi gerekir.",
+          "isCorrect": true
+        }
+      ],
+      "hint": "Okul veya internet kafe bilgisayarlarında şifrelerinizi hatırlatırsanız başkaları hesabınıza girebilir."
+    },
+    {
+      "questionNumber": 29,
+      "question": "Ailemizle birlikte ortak şifre kullanmak yerine herkesin kendi şifresi olmalıdır.",
+      "answerOptions": [
+        {
+          "text": "Doğru",
+          "rationale": "Her bireyin kendi şifresine sahip olması gizlilik ve hesap güvenliği için önemlidir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yanlış",
+          "rationale": "Ortak şifreler hangi işlemin kimin tarafından yapıldığını belirsizleştirir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Hesapların karışmaması ve kişisel alanın korunması için nasıl hareket edilmelidir?"
+    },
+    {
+      "questionNumber": 30,
+      "question": "Şifremizde adımızı ve soyadımızı kullanmamalıyız.",
+      "answerOptions": [
+        {
+          "text": "Doğru",
+          "rationale": "Ad ve soyad gibi herkesin bildiği bilgiler şifre güvenliğini düşürür.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yanlış",
+          "rationale": "Adınızı veya soyadınızı şifrede kullanmak çok büyük bir güvenlik açığıdır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Şifrenizin içeriğinde kendinize ait en temel bilgilerin olmaması gerekir."
+    },
+    {
+      "questionNumber": 31,
+      "question": "Şifre oluştururken büyük ve küçük harfleri karıştırmak güvenliği artırır.",
+      "answerOptions": [
+        {
+          "text": "Doğru",
+          "rationale": "Büyük ve küçük harflerin bir arada kullanımı şifrenin zorluğunu artırır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yanlış",
+          "rationale": "Sadece küçük harf kullanmak şifreyi daha tahmin edilebilir yapar.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Karakter çeşitliliği güvenliği nasıl etkiler?"
+    },
+    {
+      "questionNumber": 32,
+      "question": "İnternet kafelerden çıkarken hesabımızdan çıkış yapmamız şifremizi korur.",
+      "answerOptions": [
+        {
+          "text": "Doğru",
+          "rationale": "Çıkış yapmak, sonradan o bilgisayarı kullanacak kişilerin hesabınıza erişmesini engeller.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yanlış",
+          "rationale": "Hesap açık bırakıldığında başkaları tarafından kolayca kullanılabilir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Oturumu kapatmak neden önemlidir?"
+    },
+    {
+      "questionNumber": 33,
+      "question": "Şifremizi unutmamak için en yakın arkadaşımıza söyleyebiliriz.",
+      "answerOptions": [
+        {
+          "text": "Doğru",
+          "rationale": "Şifreyi başkasına söylemek güvenliği ihlal eder.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yanlış",
+          "rationale": "Şifrelerinizi hiçbir durumda ve hiç kimseyle paylaşmamalısınız.",
+          "isCorrect": true
+        }
+      ],
+      "hint": "Güvenliği sağlamak adına şifrenizi kimin bilmesi gerekir?"
+    },
+    {
+      "questionNumber": 34,
+      "question": "Bilmediğimiz kişilerden gelen mesajlardaki linklere tıklamamak gerekir.",
+      "answerOptions": [
+        {
+          "text": "Doğru",
+          "rationale": "Tanınmayan kişilerden gelen linkler zararlı yazılımlar içerebilir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yanlış",
+          "rationale": "Bu tür linklere tıklamak bilgisayarınıza veya telefonunuza zarar verebilir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Tanımadığınız birinden hediye veya link gelirse ne yapmalısınız?"
+    },
+    {
+      "questionNumber": 35,
+      "question": "Arkadaşımız gönderdiği için her linkin güvenli olduğunu düşünebiliriz.",
+      "answerOptions": [
+        {
+          "text": "Doğru",
+          "rationale": "Arkadaşınızın hesabı da ele geçirilmiş olabilir ve link güvenli olmayabilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yanlış",
+          "rationale": "Gönderici tanıdık olsa bile içeriğin doğruluğundan emin olunmalıdır.",
+          "isCorrect": true
+        }
+      ],
+      "hint": "Arkadaşınızın gönderdiği mesajların her zaman kendisinden geldiğine emin olabilir misiniz?"
+    },
+    {
+      "questionNumber": 36,
+      "question": "Şüpheli linklere tıklamak bilgisayarımıza virüs bulaştırabilir.",
+      "answerOptions": [
+        {
+          "text": "Doğru",
+          "rationale": "Kötü amaçlı linkler bilgisayarınıza zararlı yazılımların veya virüslerin sızmasını sağlar.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yanlış",
+          "rationale": "Linklerin arkasında zararlı içerikler bulunabilir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Virüsler genellikle nerelerden ve nasıl bulaşır?"
+    },
+    {
+      "questionNumber": 37,
+      "question": "Linke tıkladıktan sonra bizden şifre istenirse hemen girmeliyiz.",
+      "answerOptions": [
+        {
+          "text": "Doğru",
+          "rationale": "Bu bir tuzak olabilir ve şifrenizi çalmak isteyebilirler.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yanlış",
+          "rationale": "Şüpheli sayfalarda şifre girmeden önce doğruluğundan kesinlikle emin olunmalıdır.",
+          "isCorrect": true
+        }
+      ],
+      "hint": "Kimlik avı yöntemleri hakkında bilgi sahibi misiniz?"
+    },
+    {
+      "questionNumber": 38,
+      "question": "\"Hediye kazandınız\" yazan şüpheli linklere tıklamalıyız.",
+      "answerOptions": [
+        {
+          "text": "Doğru",
+          "rationale": "Bu tür cazip mesajlar genellikle insanları kandırmak için kullanılan tuzaklardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yanlış",
+          "rationale": "Gerçekçi olmayan vaatler içeren bu tür şüpheli bağlantılara tıklanmamalıdır.",
+          "isCorrect": true
+        }
+      ],
+      "hint": "Bedava veya beklenmedik hediyelerin gerçek olma ihtimalini düşünün."
+    },
+    {
+      "questionNumber": 39,
+      "question": "Güvenli web sitelerinin adresleri genellikle \"https\" ile başlar.",
+      "answerOptions": [
+        {
+          "text": "Doğru",
+          "rationale": "HTTPS protokolü sitenin güvenli ve şifreli bir bağlantı kullandığını gösterir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yanlış",
+          "rationale": "Güvenli sitelerde bağlantı adresleri genellikle https ile başlar.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Adres çubuğunun solundaki harflere dikkat ediniz."
+    },
+    {
+      "questionNumber": 40,
+      "question": "İnternette dolaşırken her gördüğümüz reklama tıklamalıyız.",
+      "answerOptions": [
+        {
+          "text": "Doğru",
+          "rationale": "Reklamlar sizi zararlı sitelere yönlendirebilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yanlış",
+          "rationale": "Şüpheli ve güvenilir olmayan reklamlara tıklanmamalıdır.",
+          "isCorrect": true
+        }
+      ],
+      "hint": "Her reklamın arkasında güvenilir bir firma mı vardır?"
+    },
+    {
+      "questionNumber": 41,
+      "question": "Şüpheli bir link gördüğümüzde öğretmenimize veya ailemize göstermeliyiz.",
+      "answerOptions": [
+        {
+          "text": "Doğru",
+          "rationale": "Büyükleriniz şüpheli linkleri kontrol edip sizi doğru yönlendirecektir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yanlış",
+          "rationale": "Bu tür durumları büyüklerinizle paylaşmanız doğru bir davranıştır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Eğer şüpheli bir link görürseniz kime haber vermelisiniz?"
+    },
+    {
+      "questionNumber": 42,
+      "question": "İndirme linklerine tıklamadan önce dosyanın güvenilirliğinden emin olmalıyız.",
+      "answerOptions": [
+        {
+          "text": "Doğru",
+          "rationale": "Güvenilir olmayan dosyalar zararlı yazılımlar içerebilir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yanlış",
+          "rationale": "Her dosyayı indirmek risklidir ve dikkat gerektirir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "İndirme işlemi yaparken nelere dikkat etmeliyiz?"
+    },
+    {
+      "questionNumber": 43,
+      "question": "Resmi kurumların linkleri genellikle bilinen uzantılara sahiptir.",
+      "answerOptions": [
+        {
+          "text": "Doğru",
+          "rationale": "Resmi ve güvenilir siteler kurallara uygun, bilindik alan adlarına sahiptir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yanlış",
+          "rationale": "Resmi kurumların adresleri güvenilir ve nettir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Resmi sitelerin uzantılarına (örneğin .gov) dikkat edin."
+    },
+    {
+      "questionNumber": 44,
+      "question": "Kısaltılmış linklerin nereye gittiğini bilmeden tıklamak güvenlidir.",
+      "answerOptions": [
+        {
+          "text": "Doğru",
+          "rationale": "Kısaltılmış linklerin nereye yönlendirdiği gizlendiği için güvenli değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yanlış",
+          "rationale": "Kısaltılmış bağlantılardan kaçınmak ve emin olmadan tıklamamak gerekir.",
+          "isCorrect": true
+        }
+      ],
+      "hint": "Nereye gittiğini bilmediğiniz bağlantılar sizin için tehlike yaratabilir."
+    },
+    {
+      "questionNumber": 45,
+      "question": "E-posta ile gelen bilinmeyen fatura linklerine tıklamadan önce dikkatli olmalıyız.",
+      "answerOptions": [
+        {
+          "text": "Doğru",
+          "rationale": "Bilinmeyen fatura bildirimleri sizi dolandırmak isteyenlerin yaygın bir yöntemidir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yanlış",
+          "rationale": "Bu tarz bildirimler çok dikkatli incelenmelidir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "E-postanıza gelen beklenmedik faturaların gerçekliğinden emin olmalısınız."
+    },
+    {
+      "questionNumber": 46,
+      "question": "İnternet sitelerinin adres çubuğundaki kilit simgesi güvenliği gösterir.",
+      "answerOptions": [
+        {
+          "text": "Doğru",
+          "rationale": "Kilit simgesi, site ile aranızdaki iletişimin şifrelendiğini gösterir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yanlış",
+          "rationale": "Adres çubuğundaki kilit simgesi güvenliğin bir göstergesidir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Sitelerin güvenliğini adres çubuğundan nasıl kontrol edebilirsiniz?"
+    },
+    {
+      "questionNumber": 47,
+      "question": "Şüpheli bir linke tıkladıysak hemen internet bağlantımızı kesmeliyiz.",
+      "answerOptions": [
+        {
+          "text": "Doğru",
+          "rationale": "Bağlantıyı kesmek, zararlı yazılımın başka verileri çalmasını durdurmaya yardımcı olabilir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yanlış",
+          "rationale": "Kötü amaçlı bir linke tıklandığında hemen önlem almak gerekir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Zararlı bir etkinin yayılmasını nasıl engellersiniz?"
+    },
+    {
+      "questionNumber": 48,
+      "question": "Sosyal medyadaki her tıklanabilir bağlantı güvenlidir.",
+      "answerOptions": [
+        {
+          "text": "Doğru",
+          "rationale": "Sosyal medyadaki linklerin hepsi güvenli değildir ve dolandırıcılık amaçlı olabilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yanlış",
+          "rationale": "Paylaşılan her linkin doğruluğu kontrol edilmelidir.",
+          "isCorrect": true
+        }
+      ],
+      "hint": "Sosyal medyada gördüklerinize neden şüpheyle yaklaşmalısınız?"
+    },
+    {
+      "questionNumber": 49,
+      "question": "Linklerdeki yazım hataları o sitenin sahte olabileceğini gösterir.",
+      "answerOptions": [
+        {
+          "text": "Doğru",
+          "rationale": "Sahte siteler resmi sitelere benzer isimler kullanarak insanları kandırırlar.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yanlış",
+          "rationale": "Web adresindeki küçük bir harf farklılığı o sitenin sahte olduğunu gösterebilir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Linkteki harflere çok dikkatlice bakın."
+    },
+    {
+      "questionNumber": 50,
+      "question": "İnternetten indirdiğimiz dosyaların uzantılarına dikkat etmeliyiz.",
+      "answerOptions": [
+        {
+          "text": "Doğru",
+          "rationale": "Dosya uzantıları, dosyanın türünü ve güvenilirliğini anlamamıza yardımcı olur.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yanlış",
+          "rationale": "Zararlı olabilecek dosyalar farklı uzantılarla gelebilir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Dosya indirirken hangi kısımlara bakmamız gerektiğini düşünün."
+    }
+  ]
+}

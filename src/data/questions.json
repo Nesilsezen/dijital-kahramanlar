@@ -1,0 +1,912 @@
+{
+  "balloon": {
+    "A": {
+      "questions": [
+        {
+          "questionNumber": 1,
+          "question": "İnternet, dünyadaki tüm bilgisayarları birbirine bağlayan büyük bir ağdır.",
+          "imageUrl": "",
+          "answerOptions": [
+            {
+              "text": "Doğru",
+              "rationale": "İnternet, dünya çapındaki bilgisayar ağlarını birbirine bağlayan küresel bir iletişim ağıdır.",
+              "isCorrect": true
+            },
+            {
+              "text": "Yanlış",
+              "rationale": "İnternet sadece birkaç bilgisayarı değil, dünya genelindeki milyonlarca cihazı birbirine bağlar.",
+              "isCorrect": false
+            }
+          ],
+          "hint": "İnternetin ne kadar büyük bir alana yayıldığını düşünün."
+        },
+        {
+          "questionNumber": 2,
+          "question": "Sosyal medyada tanımadığımız kişileri arkadaş olarak eklemeliyiz.",
+          "imageUrl": "",
+          "answerOptions": [
+            {
+              "text": "Doğru",
+              "rationale": "Tanımadığımız kişileri eklemek kişisel güvenliğimizi tehlikeye atabilir.",
+              "isCorrect": false
+            },
+            {
+              "text": "Yanlış",
+              "rationale": "Güvenliğimiz için sadece tanıdığımız ve güvendiğimiz kişileri eklemeliyiz.",
+              "isCorrect": true
+            }
+          ],
+          "hint": "Güvenlik kurallarını hatırlayın."
+        },
+        {
+          "questionNumber": 3,
+          "question": "Ekran başında çok uzun süre kalmak gözlerimizi yorabilir.",
+          "imageUrl": "",
+          "answerOptions": [
+            {
+              "text": "Doğru",
+              "rationale": "Uzun süre ekrana bakmak göz kuruluğuna ve yorgunluğuna neden olabilir.",
+              "isCorrect": true
+            },
+            {
+              "text": "Yanlış",
+              "rationale": "Ekrana uzun süre bakmak göz sağlığımızı olumsuz etkiler.",
+              "isCorrect": false
+            }
+          ],
+          "hint": "Ekranların göz sağlığına olan etkisini düşünün."
+        },
+        {
+          "questionNumber": 4,
+          "question": "İnternette paylaştığımız fotoğraflar sonsuza kadar orada kalabilir.",
+          "imageUrl": "",
+          "answerOptions": [
+            {
+              "text": "Doğru",
+              "rationale": "Dijital ayak izi nedeniyle paylaşımlar kalıcı olabilir.",
+              "isCorrect": true
+            },
+            {
+              "text": "Yanlış",
+              "rationale": "İnternetten silindiğini düşündüğümüz veriler kopyalanabilir ve kalıcı olabilir.",
+              "isCorrect": false
+            }
+          ],
+          "hint": "İnternetin kalıcılığı hakkında ne biliyorsunuz?"
+        },
+        {
+          "questionNumber": 5,
+          "question": "İnternet üzerinden alışveriş yaparken ailemizden izin almalıyız.",
+          "imageUrl": "",
+          "answerOptions": [
+            {
+              "text": "Doğru",
+              "rationale": "Maddi güvenlik ve bilinçli tüketim için büyüklerin onayı şarttır.",
+              "isCorrect": true
+            },
+            {
+              "text": "Yanlış",
+              "rationale": "Çocukların internet üzerinden izinsiz alışveriş yapması risklidir.",
+              "isCorrect": false
+            }
+          ],
+          "hint": "Finansal konularda kiminle konuşmalıyız?"
+        },
+        {
+          "questionNumber": 6,
+          "question": "Güçlü şifreler rakam, harf ve sembollerden oluşmalıdır.",
+          "imageUrl": "",
+          "answerOptions": [
+            {
+              "text": "Doğru",
+              "rationale": "Karmaşık şifreler hesaplarımızı daha güvenli hale getirir.",
+              "isCorrect": true
+            },
+            {
+              "text": "Yanlış",
+              "rationale": "Basit şifreler kolayca tahmin edilebilir.",
+              "isCorrect": false
+            }
+          ],
+          "hint": "Şifrelerin tahmin edilmesini zorlaştırmak için neler kullanırız?"
+        },
+        {
+          "questionNumber": 7,
+          "question": "Şifremizi en yakın arkadaşlarımızla paylaşmamızda bir sakınca yoktur.",
+          "imageUrl": "",
+          "answerOptions": [
+            {
+              "text": "Doğru",
+              "rationale": "Şifreler tamamen kişiye özeldir ve kimseyle paylaşılmamalıdır.",
+              "isCorrect": false
+            },
+            {
+              "text": "Yanlış",
+              "rationale": "En yakın arkadaşımız bile olsa şifrelerimizi paylaşmak güvenliğimizi riske atar.",
+              "isCorrect": true
+            }
+          ],
+          "hint": "Şifrelerin gizliliği ile ilgili kuralı hatırlayın."
+        },
+        {
+          "questionNumber": 8,
+          "question": "Günde 10 saatten fazla ekran karşısında kalmak sağlığımız için faydalıdır.",
+          "imageUrl": "",
+          "answerOptions": [
+            {
+              "text": "Doğru",
+              "rationale": "Çok uzun süre ekranda kalmak hareketsizliğe ve sağlık sorunlarına yol açar.",
+              "isCorrect": false
+            },
+            {
+              "text": "Yanlış",
+              "rationale": "Ekran süresinin çok uzun olması fiziksel ve zihinsel sağlığımıza zarar verir.",
+              "isCorrect": true
+            }
+          ],
+          "hint": "Aşırı ekran süresinin vücuda etkisini düşünün."
+        },
+        {
+          "questionNumber": 9,
+          "question": "Sosyal medyada gördüğümüz her bilginin doğru olduğunu kabul etmeliyiz.",
+          "imageUrl": "",
+          "answerOptions": [
+            {
+              "text": "Doğru",
+              "rationale": "Sosyal medyada yanlış bilgiler de yer alabilir, bu nedenle her bilgiye inanmamalıyız.",
+              "isCorrect": false
+            },
+            {
+              "text": "Yanlış",
+              "rationale": "Görülen her bilginin doğruluğunu güvenilir kaynaklardan teyit etmeliyiz.",
+              "isCorrect": true
+            }
+          ],
+          "hint": "Bilgilerin doğruluğunu nasıl anlarız?"
+        },
+        {
+          "questionNumber": 10,
+          "question": "İnternet sayesinde dünyanın öbür ucundaki bir bilgiye saniyeler içinde ulaşabiliriz.",
+          "imageUrl": "",
+          "answerOptions": [
+            {
+              "text": "Doğru",
+              "rationale": "İnternet, bilgiye hızlı erişim sağlar.",
+              "isCorrect": true
+            },
+            {
+              "text": "Yanlış",
+              "rationale": "İnternet teknolojisi bilgiye çok hızlı bir şekilde ulaşmamıza olanak tanır.",
+              "isCorrect": false
+            }
+          ],
+          "hint": "İnternetin hızını düşünün."
+        },
+        {
+          "questionNumber": 11,
+          "question": "Siber zorbalık, internet üzerinden başka birine kötü sözler söylemektir ve yanlıştır.",
+          "imageUrl": "",
+          "answerOptions": [
+            {
+              "text": "Doğru",
+              "rationale": "Siber zorbalık, dijital ortamda yapılan her türlü taciz ve kötü davranıştır.",
+              "isCorrect": true
+            },
+            {
+              "text": "Yanlış",
+              "rationale": "Siber zorbalık gerçek bir zarardır ve kesinlikle yapılmamalıdır.",
+              "isCorrect": false
+            }
+          ],
+          "hint": "Zorbalığın sanal ortama taşınması nasıl adlandırılır?"
+        },
+        {
+          "questionNumber": 12,
+          "question": "Bilgisayar oyunlarında her gün saatlerce vakit geçirmek derslerimizi olumlu etkiler.",
+          "imageUrl": "",
+          "answerOptions": [
+            {
+              "text": "Doğru",
+              "rationale": "Aşırı oyun oynamak derslere ayrılan zamanı azaltarak olumsuz etki yapar.",
+              "isCorrect": false
+            },
+            {
+              "text": "Yanlış",
+              "rationale": "Sürekli oyun oynamak ders başarısını düşürebilir.",
+              "isCorrect": true
+            }
+          ],
+          "hint": "Zaman yönetimi ve öncelikler."
+        },
+        {
+          "questionNumber": 13,
+          "question": "Kişisel bilgilerimizi tanımadığımız kişilerle paylaşmamalıyız.",
+          "imageUrl": "",
+          "answerOptions": [
+            {
+              "text": "Doğru",
+              "rationale": "Kişisel bilgilerin gizliliği güvenlik için çok önemlidir.",
+              "isCorrect": true
+            },
+            {
+              "text": "Yanlış",
+              "rationale": "Bu bilgiler herkesle paylaşılamaz çünkü kötü niyetli kişilerin eline geçebilir.",
+              "isCorrect": false
+            }
+          ],
+          "hint": "Hangi bilgilerin gizli kalması gerektiğini hatırlayın."
+        },
+        {
+          "questionNumber": 14,
+          "question": "İnternet kullanımı sırasında duruşumuza dikkat etmek bel ve boyun ağrılarını önler.",
+          "imageUrl": "",
+          "answerOptions": [
+            {
+              "text": "Doğru",
+              "rationale": "Ergonomik kurallara uymak kas-skelet sistemi sağlığını korur.",
+              "isCorrect": true
+            },
+            {
+              "text": "Yanlış",
+              "rationale": "Oturma şeklimiz sağlığımızı doğrudan etkiler.",
+              "isCorrect": false
+            }
+          ],
+          "hint": "Bilgisayar başında nasıl oturmalıyız?"
+        },
+        {
+          "questionNumber": 15,
+          "question": "Sosyal medyada kullanılan filtrelerin gerçek hayatı yansıtmadığını bilmeliyiz.",
+          "imageUrl": "",
+          "answerOptions": [
+            {
+              "text": "Doğru",
+              "rationale": "Filtreler sadece görüntüyü değiştiren dijital efektlerdir.",
+              "isCorrect": true
+            },
+            {
+              "text": "Yanlış",
+              "rationale": "Sosyal medyadaki her görüntü gerçeği birebir yansıtmaz.",
+              "isCorrect": false
+            }
+          ],
+          "hint": "Filtrelerin ne işe yaradığını düşünün."
+        },
+        {
+          "questionNumber": 16,
+          "question": "İnternette izinsiz başkalarının fotoğraflarını paylaşmak suç değildir.",
+          "imageUrl": "",
+          "answerOptions": [
+            {
+              "text": "Doğru",
+              "rationale": "Başkalarının fotoğraflarını izinsiz paylaşmak gizlilik ihlalidir ve suçtur.",
+              "isCorrect": false
+            },
+            {
+              "text": "Yanlış",
+              "rationale": "Kişilerin izni olmadan fotoğraf paylaşmak hukuki ve ahlaki olarak suçtur.",
+              "isCorrect": true
+            }
+          ],
+          "hint": "Başkalarının haklarına saygı konusu."
+        },
+        {
+          "questionNumber": 17,
+          "question": "Ekran başında uzun süre oturmak uykusuzluğa neden olabilir.",
+          "imageUrl": "",
+          "answerOptions": [
+            {
+              "text": "Doğru",
+              "rationale": "Ekranlardan yayılan mavi ışık uyku düzenini olumsuz etkiler.",
+              "isCorrect": true
+            },
+            {
+              "text": "Yanlış",
+              "rationale": "Ekranların yaydığı ışık uykuya dalmayı zorlaştırabilir.",
+              "isCorrect": false
+            }
+          ],
+          "hint": "Mavi ışığın uykuya etkisi nedir?"
+        },
+        {
+          "questionNumber": 18,
+          "question": "E-postalarımıza gelen tanımadığımız linklere tıklamadan önce güvenlik kontrolü yapmalıyız.",
+          "imageUrl": "",
+          "answerOptions": [
+            {
+              "text": "Doğru",
+              "rationale": "Şüpheli linkler virüs veya dolandırıcılık içerebilir.",
+              "isCorrect": true
+            },
+            {
+              "text": "Yanlış",
+              "rationale": "Güvenlik önlemi almadan her linke tıklamak tehlikelidir.",
+              "isCorrect": false
+            }
+          ],
+          "hint": "Tanımadığımız bağlantılara karşı nasıl davranmalıyız?"
+        },
+        {
+          "questionNumber": 19,
+          "question": "Sosyal medyada paylaştığımız her şeyin gizli kalacağını varsayabiliriz.",
+          "imageUrl": "",
+          "answerOptions": [
+            {
+              "text": "Doğru",
+              "rationale": "İnternetteki veriler kopyalanıp yayılabilir, gizlilik tam garanti edilemez.",
+              "isCorrect": false
+            },
+            {
+              "text": "Yanlış",
+              "rationale": "İnternete yüklenen her şeyin başkaları tarafından görülebileceğini düşünmeliyiz.",
+              "isCorrect": true
+            }
+          ],
+          "hint": "İnternet ortamının ne kadar güvenli olduğunu düşünün."
+        },
+        {
+          "questionNumber": 20,
+          "question": "İnternet kullanımını belirli bir süreyle sınırlandırmak dijital dengeyi sağlar.",
+          "imageUrl": "",
+          "answerOptions": [
+            {
+              "text": "Doğru",
+              "rationale": "Zamanı planlamak dengeli bir yaşam sağlar.",
+              "isCorrect": true
+            },
+            {
+              "text": "Yanlış",
+              "rationale": "Sınırsız kullanım dengesizliğe yol açar.",
+              "isCorrect": false
+            }
+          ],
+          "hint": "Zamanı doğru kullanmak nasıl adlandırılır?"
+        },
+        {
+          "questionNumber": 21,
+          "question": "Çevrimiçi oyun oynarken tanımadığımız kişilerden gelen hediyeleri kabul etmeliyiz.",
+          "imageUrl": "",
+          "answerOptions": [
+            {
+              "text": "Doğru",
+              "rationale": "Tanımadığımız kişilerden gelen hediyeler veya linkler tehlikeli olabilir.",
+              "isCorrect": false
+            },
+            {
+              "text": "Yanlış",
+              "rationale": "Bu tür teklifler genellikle dolandırıcılık amacıyla yapılır.",
+              "isCorrect": true
+            }
+          ],
+          "hint": "Çevrimiçi güvenlik kuralları."
+        },
+        {
+          "questionNumber": 22,
+          "question": "İnternet araştırması yaparken tek bir kaynağa güvenmek en doğrusudur.",
+          "imageUrl": "",
+          "answerOptions": [
+            {
+              "text": "Doğru",
+              "rationale": "Farklı kaynaklardan bilgileri karşılaştırmak daha güvenlidir.",
+              "isCorrect": false
+            },
+            {
+              "text": "Yanlış",
+              "rationale": "Tek bir kaynağın yanıltma ihtimali olabilir, bu yüzden çoklu kaynak taraması gerekir.",
+              "isCorrect": true
+            }
+          ],
+          "hint": "Araştırma yaparken kaç kaynaktan faydalanmak gerekir?"
+        },
+        {
+          "questionNumber": 23,
+          "question": "Ekran ışığını çok yüksek tutmak gözlerimize zarar verebilir.",
+          "imageUrl": "",
+          "answerOptions": [
+            {
+              "text": "Doğru",
+              "rationale": "Parlak ekranlar gözü yorar ve zarar verebilir.",
+              "isCorrect": true
+            },
+            {
+              "text": "Yanlış",
+              "rationale": "Ekranın parlaklığı göz sağlığını doğrudan etkiler.",
+              "isCorrect": false
+            }
+          ],
+          "hint": "Göz sağlığı ve parlaklık ilişkisi."
+        },
+        {
+          "questionNumber": 24,
+          "question": "Sosyal medyada beğeni sayısına göre kendi değerimizi ölçmeliyiz.",
+          "imageUrl": "",
+          "answerOptions": [
+            {
+              "text": "Doğru",
+              "rationale": "İnsan değeri beğeni sayısıyla ölçülemez.",
+              "isCorrect": false
+            },
+            {
+              "text": "Yanlış",
+              "rationale": "Kişinin değeri sosyal medyadaki tepkilerden bağımsızdır.",
+              "isCorrect": true
+            }
+          ],
+          "hint": "Kendi değerimizi ne belirler?"
+        },
+        {
+          "questionNumber": 25,
+          "question": "İnternet üzerinden tanıştığımız bir kişiyle gerçek hayatta buluşmadan önce mutlaka ailemize haber vermeliyiz.",
+          "imageUrl": "",
+          "answerOptions": [
+            {
+              "text": "Doğru",
+              "rationale": "Güvenlik açısından bu durum çok önemlidir ve aile onayı şarttır.",
+              "isCorrect": true
+            },
+            {
+              "text": "Yanlış",
+              "rationale": "Sanal ortamda tanışılan kişilerle buluşmak risklidir.",
+              "isCorrect": false
+            }
+          ],
+          "hint": "Yüz yüze buluşma güvenliği."
+        }
+      ]
+    },
+    "B": {
+      "questions": [
+        {
+          "questionNumber": 26,
+          "question": "Dijital oyun bağımlılığı, gerçek dünya ile bağımızı koparabilir.",
+          "imageUrl": "",
+          "answerOptions": [
+            {
+              "text": "Doğru",
+              "rationale": "Aşırı oyun oynamak sosyal yaşamdan uzaklaştırır.",
+              "isCorrect": true
+            },
+            {
+              "text": "Yanlış",
+              "rationale": "Bağımlılık, gerçek hayattaki ilişkileri ve sorumlulukları olumsuz etkiler.",
+              "isCorrect": false
+            }
+          ],
+          "hint": "Bağımlılığın etkileri."
+        },
+        {
+          "questionNumber": 27,
+          "question": "Bilgisayar başında düzenli aralıklarla mola vermek faydalıdır.",
+          "imageUrl": "",
+          "answerOptions": [
+            {
+              "text": "Doğru",
+              "rationale": "Mola vermek hem gözü hem de bedeni dinlendirir.",
+              "isCorrect": true
+            },
+            {
+              "text": "Yanlış",
+              "rationale": "Mola vermeden çalışmak zararlıdır.",
+              "isCorrect": false
+            }
+          ],
+          "hint": "Sağlıklı çalışma alışkanlıkları."
+        },
+        {
+          "questionNumber": 28,
+          "question": "İnternet sitelerindeki reklamların hepsi her zaman güvenlidir.",
+          "imageUrl": "",
+          "answerOptions": [
+            {
+              "text": "Doğru",
+              "rationale": "Bazı reklamlar zararlı yazılımlar içerebilir.",
+              "isCorrect": false
+            },
+            {
+              "text": "Yanlış",
+              "rationale": "Her reklama güvenilmez ve dikkatli olunmalıdır.",
+              "isCorrect": true
+            }
+          ],
+          "hint": "Reklamların içeriği."
+        },
+        {
+          "questionNumber": 29,
+          "question": "İnternette tanımadığımız kişilere karşı nazik ve saygılı olmalıyız.",
+          "imageUrl": "",
+          "answerOptions": [
+            {
+              "text": "Doğru",
+              "rationale": "Dijital nezaket kurallarına her zaman uyulmalıdır.",
+              "isCorrect": true
+            },
+            {
+              "text": "Yanlış",
+              "rationale": "Kişilere sanal ortamda saygısızlık yapmak yanlıştır.",
+              "isCorrect": false
+            }
+          ],
+          "hint": "İnternet etiği."
+        },
+        {
+          "questionNumber": 30,
+          "question": "Eğitim ve araştırma amaçlı internet kullanımı faydalıdır.",
+          "imageUrl": "",
+          "answerOptions": [
+            {
+              "text": "Doğru",
+              "rationale": "İnternet, öğrenmeyi ve bilgiye erişimi kolaylaştırır.",
+              "isCorrect": true
+            },
+            {
+              "text": "Yanlış",
+              "rationale": "İnternet sadece eğlence değil, eğitim için de çok önemlidir.",
+              "isCorrect": false
+            }
+          ],
+          "hint": "İnternetin faydalı kullanımı."
+        },
+        {
+          "questionNumber": 31,
+          "question": "Sosyal medyadaki herkes gerçek adını ve yaşını kullanır.",
+          "imageUrl": "",
+          "answerOptions": [
+            {
+              "text": "Doğru",
+              "rationale": "İnsanlar sosyal medyada sahte isimler kullanabilir.",
+              "isCorrect": false
+            },
+            {
+              "text": "Yanlış",
+              "rationale": "Herkes gerçek kimliğini kullanmayabilir, buna dikkat edilmelidir.",
+              "isCorrect": true
+            }
+          ],
+          "hint": "Sosyal medyadaki profillerin güvenilirliği."
+        },
+        {
+          "questionNumber": 32,
+          "question": "İnternette adımıza açılan sahte hesapları bildirmeliyiz.",
+          "imageUrl": "",
+          "answerOptions": [
+            {
+              "text": "Doğru",
+              "rationale": "Sahte hesaplar tehlikelidir ve şikayet edilmelidir.",
+              "isCorrect": true
+            },
+            {
+              "text": "Yanlış",
+              "rationale": "Bu tür hesapları bildirmek güvenlik önlemidir.",
+              "isCorrect": false
+            }
+          ],
+          "hint": "Kişisel hakların korunması."
+        },
+        {
+          "questionNumber": 33,
+          "question": "Ekran başında yemek yemek, ne kadar yediğimizi anlamamızı kolaylaştırır.",
+          "imageUrl": "",
+          "answerOptions": [
+            {
+              "text": "Doğru",
+              "rationale": "Ekranla ilgilenirken ne kadar yediğimizin farkına varamayız.",
+              "isCorrect": false
+            },
+            {
+              "text": "Yanlış",
+              "rationale": "Ekran karşısında yemek yemek aşırı tüketime neden olabilir.",
+              "isCorrect": true
+            }
+          ],
+          "hint": "Ekran karşısında beslenme alışkanlığı."
+        },
+        {
+          "questionNumber": 34,
+          "question": "İnternette telif hakkı olan içerikleri izinsiz paylaşmamalıyız.",
+          "imageUrl": "",
+          "answerOptions": [
+            {
+              "text": "Doğru",
+              "rationale": "Telif hakkı olan eserleri izinsiz paylaşmak yasal değildir.",
+              "isCorrect": true
+            },
+            {
+              "text": "Yanlış",
+              "rationale": "Bu kurala uymak dijital haklara saygıyı gösterir.",
+              "isCorrect": false
+            }
+          ],
+          "hint": "Telif hakkı nedir?"
+        },
+        {
+          "questionNumber": 35,
+          "question": "Zararlı içeriklerle karşılaştığımızda ekranı kapatıp bir büyüğe haber vermeliyiz.",
+          "imageUrl": "",
+          "answerOptions": [
+            {
+              "text": "Doğru",
+              "rationale": "Bu doğru bir korunma yöntemidir.",
+              "isCorrect": true
+            },
+            {
+              "text": "Yanlış",
+              "rationale": "Zararlı içeriklerden kaçınmak ve büyüklerden yardım almak gerekir.",
+              "isCorrect": false
+            }
+          ],
+          "hint": "Kötü içeriklerle karşılaşınca ne yapılmalı?"
+        },
+        {
+          "questionNumber": 36,
+          "question": "Sosyal medyada çok vakit geçirmek ders çalışmamızı engellemez.",
+          "imageUrl": "",
+          "answerOptions": [
+            {
+              "text": "Doğru",
+              "rationale": "Çok fazla zaman harcamak derslere olan ilgiyi azaltır.",
+              "isCorrect": false
+            },
+            {
+              "text": "Yanlış",
+              "rationale": "Zamanı doğru planlamazsak derslerimizi aksatabilir.",
+              "isCorrect": true
+            }
+          ],
+          "hint": "Zaman yönetimi."
+        },
+        {
+          "questionNumber": 37,
+          "question": "İnternet kullanımı, doğru planlandığında zaman kazandırır.",
+          "imageUrl": "",
+          "answerOptions": [
+            {
+              "text": "Doğru",
+              "rationale": "İşlerimizi hızlıca halletmemizi sağlar.",
+              "isCorrect": true
+            },
+            {
+              "text": "Yanlış",
+              "rationale": "Planlı kullanım verimliliği artırır.",
+              "isCorrect": false
+            }
+          ],
+          "hint": "İnternetin sunduğu kolaylıklar."
+        },
+        {
+          "questionNumber": 38,
+          "question": "Şifremizi unutmamak için bir kağıda yazıp herkese açık bir yere asmalıyız.",
+          "imageUrl": "",
+          "answerOptions": [
+            {
+              "text": "Doğru",
+              "rationale": "Bu şifremizi başkalarının öğrenmesine neden olur.",
+              "isCorrect": false
+            },
+            {
+              "text": "Yanlış",
+              "rationale": "Şifreler gizli tutulmalı ve kolay görünen yerlere yazılmamalıdır.",
+              "isCorrect": true
+            }
+          ],
+          "hint": "Şifre güvenliği."
+        },
+        {
+          "questionNumber": 39,
+          "question": "Sanal dünyadaki arkadaşlarımız, gerçek dünyadaki arkadaşlarımızdan daha önemlidir.",
+          "imageUrl": "",
+          "answerOptions": [
+            {
+              "text": "Doğru",
+              "rationale": "Gerçek hayattaki dostluklar her zaman önceliklidir.",
+              "isCorrect": false
+            },
+            {
+              "text": "Yanlış",
+              "rationale": "Gerçek ilişkiler sanal olanlardan daha değerlidir.",
+              "isCorrect": true
+            }
+          ],
+          "hint": "Gerçek ve sanal ilişkilerin kıyaslanması."
+        },
+        {
+          "questionNumber": 40,
+          "question": "İnternetteki bilgilerin kaynağını kontrol etmek önemlidir.",
+          "imageUrl": "",
+          "answerOptions": [
+            {
+              "text": "Doğru",
+              "rationale": "Kaynağı güvenilir olmayan bilgilere inanmamalıyız.",
+              "isCorrect": true
+            },
+            {
+              "text": "Yanlış",
+              "rationale": "Bilgi kirliliğinden korunmak için kaynak kontrolü şarttır.",
+              "isCorrect": false
+            }
+          ],
+          "hint": "Bilgi doğrulaması."
+        },
+        {
+          "questionNumber": 41,
+          "question": "Sosyal medyada linç kültürüne katılmak doğru bir davranıştır.",
+          "imageUrl": "",
+          "answerOptions": [
+            {
+              "text": "Doğru",
+              "rationale": "Başkalarına karşı acımasız yorumlar yapmak yanlıştır.",
+              "isCorrect": false
+            },
+            {
+              "text": "Yanlış",
+              "rationale": "Linç kültürü dijital zorbalıktır ve kaçınılmalıdır.",
+              "isCorrect": true
+            }
+          ],
+          "hint": "Dijital nezaket."
+        },
+        {
+          "questionNumber": 42,
+          "question": "Güvenli internet kullanımı için antivirüs programları kullanmalıyız.",
+          "imageUrl": "",
+          "answerOptions": [
+            {
+              "text": "Doğru",
+              "rationale": "Antivirüsler bilgisayarı zararlı yazılımlardan korur.",
+              "isCorrect": true
+            },
+            {
+              "text": "Yanlış",
+              "rationale": "Güvenlik yazılımları önemlidir.",
+              "isCorrect": false
+            }
+          ],
+          "hint": "Bilgisayar güvenliği."
+        },
+        {
+          "questionNumber": 43,
+          "question": "Ekran süresi azaldıkça fiziksel aktivitelerimiz artabilir.",
+          "imageUrl": "",
+          "answerOptions": [
+            {
+              "text": "Doğru",
+              "rationale": "Ekran karşısında geçirilen zaman azaldığında hareket için daha fazla vakit kalır.",
+              "isCorrect": true
+            },
+            {
+              "text": "Yanlış",
+              "rationale": "Ekran süresi ile hareketlilik ters orantılıdır.",
+              "isCorrect": false
+            }
+          ],
+          "hint": "Ekran süresinin fiziksel aktivitelere etkisi."
+        },
+        {
+          "questionNumber": 44,
+          "question": "İnternet kullanım sözleşmelerini okumadan onaylamak güvenlidir.",
+          "imageUrl": "",
+          "answerOptions": [
+            {
+              "text": "Doğru",
+              "rationale": "Sözleşmeler okunmadan onaylanırsa gizlilik riskleri doğabilir.",
+              "isCorrect": false
+            },
+            {
+              "text": "Yanlış",
+              "rationale": "Kullanım koşullarını okumak her zaman gereklidir.",
+              "isCorrect": true
+            }
+          ],
+          "hint": "Sözleşmelerin okunması."
+        },
+        {
+          "questionNumber": 45,
+          "question": "Sosyal medya platformlarında saatlerce hareketsiz oturmak kaslarımıza zarar verebilir.",
+          "imageUrl": "",
+          "answerOptions": [
+            {
+              "text": "Doğru",
+              "rationale": "Uzun süre hareketsiz kalmak fiziksel sağlığı olumsuz etkiler.",
+              "isCorrect": true
+            },
+            {
+              "text": "Yanlış",
+              "rationale": "Kas ve iskelet sistemi hareketsizlikten zarar görebilir.",
+              "isCorrect": false
+            }
+          ],
+          "hint": "Hareketsiz yaşamın zararları."
+        },
+        {
+          "questionNumber": 46,
+          "question": "İnternette karşılaştığımız her haberi paylaşmadan önce doğrulamalıyız.",
+          "imageUrl": "",
+          "answerOptions": [
+            {
+              "text": "Doğru",
+              "rationale": "Yanlış haberlerin yayılmasını önlemek için doğrulama yapılmalıdır.",
+              "isCorrect": true
+            },
+            {
+              "text": "Yanlış",
+              "rationale": "Yalan haberlerin yayılmasına sebep olmamalıyız.",
+              "isCorrect": false
+            }
+          ],
+          "hint": "Haber doğrulama."
+        },
+        {
+          "questionNumber": 47,
+          "question": "Akıllı telefonları uyumadan hemen önce kullanmak uyku kalitesini artırır.",
+          "imageUrl": "",
+          "answerOptions": [
+            {
+              "text": "Doğru",
+              "rationale": "Mavi ışık uykuya geçişi zorlaştırır ve kaliteyi düşürür.",
+              "isCorrect": false
+            },
+            {
+              "text": "Yanlış",
+              "rationale": "Uyku öncesi ekran kullanımı uyku kalitesini olumsuz etkiler.",
+              "isCorrect": true
+            }
+          ],
+          "hint": "Uyku ve mavi ışık ilişkisi."
+        },
+        {
+          "questionNumber": 48,
+          "question": "Bilgisayar oyunlarında kullanılan sanal paralar gerçek parayı temsil ettiği için dikkatli olunmalıdır.",
+          "imageUrl": "",
+          "answerOptions": [
+            {
+              "text": "Doğru",
+              "rationale": "Sanal paralar genellikle gerçek paralarla alınır, bu yüzden maddi risk taşır.",
+              "isCorrect": true
+            },
+            {
+              "text": "Yanlış",
+              "rationale": "Sanal harcamalar bütçeyi etkileyebilir.",
+              "isCorrect": false
+            }
+          ],
+          "hint": "Sanal paranın maddi değeri."
+        },
+        {
+          "questionNumber": 49,
+          "question": "İnternet ortamında paylaştığımız bilgiler gelecekteki iş hayatımızı etkileyebilir.",
+          "imageUrl": "",
+          "answerOptions": [
+            {
+              "text": "Doğru",
+              "rationale": "Dijital izler uzun yıllar kalabilir ve gelecekteki durumumuzu etkileyebilir.",
+              "isCorrect": true
+            },
+            {
+              "text": "Yanlış",
+              "rationale": "İnternet paylaşımları gelecekteki profesyonel hayatı etkileyebilir.",
+              "isCorrect": false
+            }
+          ],
+          "hint": "Dijital ayak izi ve geleceğimiz."
+        },
+        {
+          "questionNumber": 50,
+          "question": "Dijital dünyada geçirdiğimiz zamanı, gerçek dünyadaki etkinliklerle dengelemeliyiz.",
+          "imageUrl": "",
+          "answerOptions": [
+            {
+              "text": "Doğru",
+              "rationale": "Sağlıklı bir yaşam için sanal ve gerçek dünya dengelenmelidir.",
+              "isCorrect": true
+            },
+            {
+              "text": "Yanlış",
+              "rationale": "Sadece sanal dünyada kalmak sağlıksızdır.",
+              "isCorrect": false
+            }
+          ],
+          "hint": "Dengeli yaşam."
+        }
+      ]
+    }
+  }
+}
