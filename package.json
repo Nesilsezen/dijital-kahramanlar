@@ -44,7 +44,6 @@
       "dist/**",
       "electron/**",
       "src/data/defaultSession.json",
-      "dkahramanlar.png",
       "package.json"
     ],
     "linux": {

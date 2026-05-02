@@ -1,9 +1,9 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
-import appLogo from "../dkahramanlar.png";
-import puzzleA1 from "../atakim_1-puzzle.png";
-import puzzleA2 from "../atakim_2-puzzle.png";
-import puzzleB1 from "../btakim_1-puzzle.png";
-import puzzleB2 from "../btakim_2-puzzle.png";
+import appLogo from "./assets/images/dkahramanlar.png";
+import puzzleA1 from "./assets/images/atakim_1-puzzle.png";
+import puzzleA2 from "./assets/images/atakim_2-puzzle.png";
+import puzzleB1 from "./assets/images/btakim_1-puzzle.png";
+import puzzleB2 from "./assets/images/btakim_2-puzzle.png";
 import balloonPopSfx from "./assets/audio/balloon-pop.mp3";
 import gameplayLoopMusic from "./assets/audio/gameplay-loop.mp3";
 import tensionLoopMusic from "./assets/audio/tension-loop.mp3";

@@ -10,7 +10,7 @@ let mainWindow;
 const dataPath = path.join(app.getPath("userData"), "groups.json");
 const defaultData = require("../src/data/defaultSession.json");
 const devServerUrl = process.env.VITE_DEV_SERVER_URL ?? "http://localhost:5173";
-const appIconPath = path.join(__dirname, "../dkahramanlar.png");
+const appIconPath = path.join(__dirname, "../resources/icon.png");
 
 function cloneDefaultData() {
   return JSON.parse(JSON.stringify(defaultData));

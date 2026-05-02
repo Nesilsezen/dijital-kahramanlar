@@ -1,4 +1,0 @@
-# Contributors
-
-- yusuftuncel-bit
-- Nesilsezen
