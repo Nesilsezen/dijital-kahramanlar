@@ -1,0 +1,49 @@
+# Image Asset Sources
+
+Bridge game pixel assets downloaded on 2026-05-05:
+
+1. `bridge-underwater-bg.png`
+   - Source: https://opengameart.org/content/underwater-world-pixel-background
+   - Direct file package: https://opengameart.org/sites/default/files/underwater_world_pixel_background.zip
+   - Selected file from package: `orig_big.png`
+   - License listed on source page: OGA-BY 3.0.
+
+2. `bridge-rock-pile.png`
+   - Source: https://opengameart.org/content/rock-pile
+   - Direct file: https://opengameart.org/sites/default/files/Rock%20Pile.png
+   - License listed on source page: CC-BY 4.0 / CC-BY 3.0.
+
+3. `bridge-hero-side-sheet.png`
+   - Source: https://opengameart.org/content/8-bit-character
+   - Direct file: https://opengameart.org/sites/default/files/side-sheet.png
+   - License listed on source page: CC0.
+
+Fanus game pixel assets downloaded on 2026-05-08:
+
+4. `fanus-pixel.png`
+   - Source: https://opengameart.org/node/129676
+   - Direct file: https://opengameart.org/sites/default/files/goldfish-blue2.png
+   - License listed on source page: CC-BY 4.0 and CC0.
+
+5. `paper-pixel.png`
+   - Source: https://opengameart.org/content/paper-icons
+   - Direct file: https://opengameart.org/sites/default/files/Paper.png
+   - License listed on source page: CC0.
+
+6. `fanus-bowl-pixel.svg`
+   - Created locally for this project.
+
+7. `cup-icon-wifi.png`, `cup-icon-globe.png`, `cup-icon-computer.png`
+   - Source page: https://opengameart.org/content/kind-of-techno-icons
+   - Source sheet: https://opengameart.org/sites/default/files/Kind%20of%20Techno%20Icons.png
+   - License listed on source page: CC0.
+   - Notes: cropped from the 24x24 sprite sheet and upscaled with nearest-neighbor.
+
+Eşleştirme game icons downloaded on 2026-05-08:
+
+8. `match-icons/*.svg`
+   - Source: https://github.com/game-icons/icons
+   - Project site: https://game-icons.net/
+   - License: CC BY 3.0.
+   - Authors: Lorc, Delapouite, Caro Asercion, Cathelineau, Sbed, Badges contributors, and Game-icons.net contributors.
+   - Notes: selected SVG files copied locally; default black background path removed and foreground color adjusted for this game's card UI. `symbol.svg` is a local replacement because the source multiply icon looked like a wrong/close button in-game.

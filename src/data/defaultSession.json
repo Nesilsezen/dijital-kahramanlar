@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 7,
+  "schemaVersion": 10,
   "phase": "intro",
   "activeGameIndex": 0,
   "activeGroup": "A",
@@ -11,12 +11,15 @@
   },
   "gameState": {
     "transition": {
-      "balloonPopped": false
+      "balloonPopped": false,
+      "puzzleDifficulty": "medium"
     },
     "turns": {
       "A": {
         "status": "waiting",
         "questionIndex": 0,
+        "currentQuestionId": null,
+        "askedQuestionIds": [],
         "answered": 0,
         "correct": 0,
         "balloonLevel": 0
@@ -24,6 +27,8 @@
       "B": {
         "status": "waiting",
         "questionIndex": 0,
+        "currentQuestionId": null,
+        "askedQuestionIds": [],
         "answered": 0,
         "correct": 0,
         "balloonLevel": 0
@@ -42,6 +47,28 @@
       "completedGames": []
     }
   },
+  "settings": {
+    "developerMode": false,
+    "customQuestions": {
+      "balloon": {
+        "A": [],
+        "B": []
+      },
+      "worm": {
+        "A": [],
+        "B": []
+      },
+      "bridge": {
+        "A": [],
+        "B": []
+      },
+      "jar": {
+        "A": [],
+        "B": []
+      }
+    },
+    "customPuzzles": []
+  },
   "games": [
     {
       "id": "balloon",
@@ -58,6 +85,40 @@
       "pointsPerWrong": -10,
       "foodValues": [10, 20, 30],
       "stepMs": 280
+    },
+    {
+      "id": "bridge",
+      "title": "Boşluk Doldurma",
+      "durationSeconds": 90,
+      "pointsPerCorrect": 10,
+      "pointsPerWrong": 0,
+      "targetSteps": 7
+    },
+    {
+      "id": "jar",
+      "title": "Fanus Oyunu",
+      "durationSeconds": 90,
+      "pointsPerCorrect": 10,
+      "pointsPerWrong": -10,
+      "paperCount": 12
+    },
+    {
+      "id": "cup",
+      "title": "Bardak Oyunu",
+      "durationSeconds": 90,
+      "pointsPerCorrect": 20,
+      "pointsPerWrong": -10,
+      "roundsPerGroup": 3,
+      "shuffleCount": 10
+    },
+    {
+      "id": "match",
+      "title": "Eşleştirme",
+      "durationSeconds": 120,
+      "pointsPerCorrect": 5,
+      "pointsPerWrong": 0,
+      "pairCount": 10,
+      "previewSeconds": 2
     },
     {
       "id": "puzzle",

@@ -1,0 +1,250 @@
+{
+  "A": {
+    "questions": [
+      {
+        "questionNumber": 1,
+        "question": "Şifreni kimlerle paylaşabilirsin?",
+        "answerOptions": [
+          { "text": "Kimseyle paylaşmam", "isCorrect": true },
+          { "text": "Tüm arkadaşlarımla", "isCorrect": false },
+          { "text": "Oyundaki kişilerle", "isCorrect": false },
+          { "text": "Tanımadığım biriyle", "isCorrect": false }
+        ]
+      },
+      {
+        "questionNumber": 2,
+        "question": "Tanımadığın kişiden link gelirse ne yaparsın?",
+        "answerOptions": [
+          { "text": "Bir büyüğe gösteririm", "isCorrect": true },
+          { "text": "Hemen tıklarım", "isCorrect": false },
+          { "text": "Şifremi yazarım", "isCorrect": false },
+          { "text": "Adresimi gönderirim", "isCorrect": false }
+        ]
+      },
+      {
+        "questionNumber": 3,
+        "question": "Hangisi kişisel bilgidir?",
+        "answerOptions": [
+          { "text": "Ev adresi", "isCorrect": true },
+          { "text": "Elma", "isCorrect": false },
+          { "text": "Mavi renk", "isCorrect": false },
+          { "text": "Kalem", "isCorrect": false }
+        ]
+      },
+      {
+        "questionNumber": 4,
+        "question": "Ekrana uzun süre bakınca ne yapmalıyız?",
+        "answerOptions": [
+          { "text": "Mola vermeliyiz", "isCorrect": true },
+          { "text": "Hiç kalkmamalıyız", "isCorrect": false },
+          { "text": "Gece hiç uyumamalıyız", "isCorrect": false },
+          { "text": "Ekrana daha yakından bakmalıyız", "isCorrect": false }
+        ]
+      },
+      {
+        "questionNumber": 5,
+        "question": "İnternette nasıl konuşmalıyız?",
+        "answerOptions": [
+          { "text": "Nazik ve saygılı", "isCorrect": true },
+          { "text": "Kırıcı", "isCorrect": false },
+          { "text": "Alay ederek", "isCorrect": false },
+          { "text": "Bağırarak", "isCorrect": false }
+        ]
+      },
+      {
+        "questionNumber": 6,
+        "question": "Ortak bilgisayarda işin bitince ne yaparsın?",
+        "answerOptions": [
+          { "text": "Hesaptan çıkış yaparım", "isCorrect": true },
+          { "text": "Hesabı açık bırakırım", "isCorrect": false },
+          { "text": "Şifremi kaydederim", "isCorrect": false },
+          { "text": "Başkasına veririm", "isCorrect": false }
+        ]
+      },
+      {
+        "questionNumber": 7,
+        "question": "Birisi internette sana kötü söz söylerse ne yaparsın?",
+        "answerOptions": [
+          { "text": "Aileme veya öğretmenime söylerim", "isCorrect": true },
+          { "text": "Ben de kötü söz söylerim", "isCorrect": false },
+          { "text": "Şifremi veririm", "isCorrect": false },
+          { "text": "Adresimi yazarım", "isCorrect": false }
+        ]
+      },
+      {
+        "questionNumber": 8,
+        "question": "Fotoğraf paylaşmadan önce ne yapmalıyız?",
+        "answerOptions": [
+          { "text": "İzin almalıyız", "isCorrect": true },
+          { "text": "Herkese göndermeliyiz", "isCorrect": false },
+          { "text": "Tanımadıklara yollamalıyız", "isCorrect": false },
+          { "text": "Şifreyle birlikte atmalıyız", "isCorrect": false }
+        ]
+      },
+      {
+        "questionNumber": 9,
+        "question": "Güçlü şifre için hangisi daha iyidir?",
+        "answerOptions": [
+          { "text": "Harf ve rakam kullanmak", "isCorrect": true },
+          { "text": "1234", "isCorrect": false },
+          { "text": "Adımı yazmak", "isCorrect": false },
+          { "text": "Şifre kelimesini yazmak", "isCorrect": false }
+        ]
+      },
+      {
+        "questionNumber": 10,
+        "question": "İnternette gördüğün her bilgi doğru mudur?",
+        "answerOptions": [
+          { "text": "Hayır, kontrol etmeliyim", "isCorrect": true },
+          { "text": "Evet, her zaman doğrudur", "isCorrect": false },
+          { "text": "Beğeni çoksa kesin doğrudur", "isCorrect": false },
+          { "text": "Reklam ise kesin doğrudur", "isCorrect": false }
+        ]
+      },
+      {
+        "questionNumber": 11,
+        "question": "Oyunda tanımadığın biri buluşmak isterse ne yaparsın?",
+        "answerOptions": [
+          { "text": "Büyüğüme haber veririm", "isCorrect": true },
+          { "text": "Hemen giderim", "isCorrect": false },
+          { "text": "Adresimi yollarım", "isCorrect": false },
+          { "text": "Telefonumu veririm", "isCorrect": false }
+        ]
+      },
+      {
+        "questionNumber": 12,
+        "question": "Bilmediğin dosyayı açmadan önce ne yaparsın?",
+        "answerOptions": [
+          { "text": "Bir büyüğe sorarım", "isCorrect": true },
+          { "text": "Hemen açarım", "isCorrect": false },
+          { "text": "Herkese yollarım", "isCorrect": false },
+          { "text": "Şifremi girerim", "isCorrect": false }
+        ]
+      }
+    ]
+  },
+  "B": {
+    "questions": [
+      {
+        "questionNumber": 13,
+        "question": "Telefon numaranı tanımadığın kişiye verir misin?",
+        "answerOptions": [
+          { "text": "Hayır, vermem", "isCorrect": true },
+          { "text": "Evet, hemen veririm", "isCorrect": false },
+          { "text": "Herkese yazarım", "isCorrect": false },
+          { "text": "Oyunda paylaşırım", "isCorrect": false }
+        ]
+      },
+      {
+        "questionNumber": 14,
+        "question": "Sahte ödül mesajı gelirse ne yapmalısın?",
+        "answerOptions": [
+          { "text": "Tıklamadan büyüğüme sorarım", "isCorrect": true },
+          { "text": "Kart bilgisi yazarım", "isCorrect": false },
+          { "text": "Şifremi girerim", "isCorrect": false },
+          { "text": "Hemen paylaşırım", "isCorrect": false }
+        ]
+      },
+      {
+        "questionNumber": 15,
+        "question": "Hangisi güvenli davranıştır?",
+        "answerOptions": [
+          { "text": "Şifreyi gizli tutmak", "isCorrect": true },
+          { "text": "Şifreyi sınıfa söylemek", "isCorrect": false },
+          { "text": "Linklere hemen tıklamak", "isCorrect": false },
+          { "text": "Adres paylaşmak", "isCorrect": false }
+        ]
+      },
+      {
+        "questionNumber": 16,
+        "question": "Uzun ekran süresi en çok neyi yorabilir?",
+        "answerOptions": [
+          { "text": "Gözlerimizi", "isCorrect": true },
+          { "text": "Ayakkabımızı", "isCorrect": false },
+          { "text": "Çantamızı", "isCorrect": false },
+          { "text": "Kalemimizi", "isCorrect": false }
+        ]
+      },
+      {
+        "questionNumber": 17,
+        "question": "Çevrim içi oyunda kişisel bilgi istenirse ne yaparsın?",
+        "answerOptions": [
+          { "text": "Paylaşmam", "isCorrect": true },
+          { "text": "Adresimi yazarım", "isCorrect": false },
+          { "text": "Okulumu söylerim", "isCorrect": false },
+          { "text": "Şifremi veririm", "isCorrect": false }
+        ]
+      },
+      {
+        "questionNumber": 18,
+        "question": "Güzel bir internet davranışı hangisidir?",
+        "answerOptions": [
+          { "text": "Teşekkür etmek", "isCorrect": true },
+          { "text": "Hakaret etmek", "isCorrect": false },
+          { "text": "Korkutmak", "isCorrect": false },
+          { "text": "Dalga geçmek", "isCorrect": false }
+        ]
+      },
+      {
+        "questionNumber": 19,
+        "question": "Kameranı açmadan önce ne yapmalısın?",
+        "answerOptions": [
+          { "text": "Ailemden izin almalıyım", "isCorrect": true },
+          { "text": "Herkese açmalıyım", "isCorrect": false },
+          { "text": "Tanımadıklara açmalıyım", "isCorrect": false },
+          { "text": "Gizlice açmalıyım", "isCorrect": false }
+        ]
+      },
+      {
+        "questionNumber": 20,
+        "question": "E-posta adresin özel bilgi olabilir mi?",
+        "answerOptions": [
+          { "text": "Evet, dikkatli paylaşırım", "isCorrect": true },
+          { "text": "Hayır, herkese veririm", "isCorrect": false },
+          { "text": "Şifreyle birlikte yazarım", "isCorrect": false },
+          { "text": "Tanımadıklara gönderirim", "isCorrect": false }
+        ]
+      },
+      {
+        "questionNumber": 21,
+        "question": "İnternette biri seni rahatsız ederse ne yaparsın?",
+        "answerOptions": [
+          { "text": "Büyüğüme söylerim", "isCorrect": true },
+          { "text": "Saklarım", "isCorrect": false },
+          { "text": "Şifremi yollarım", "isCorrect": false },
+          { "text": "Adresimi veririm", "isCorrect": false }
+        ]
+      },
+      {
+        "questionNumber": 22,
+        "question": "Hangi şifre daha güçlüdür?",
+        "answerOptions": [
+          { "text": "Kedi45!", "isCorrect": true },
+          { "text": "1234", "isCorrect": false },
+          { "text": "adım", "isCorrect": false },
+          { "text": "abcd", "isCorrect": false }
+        ]
+      },
+      {
+        "questionNumber": 23,
+        "question": "Bilmediğin bir uygulama izin isterse ne yaparsın?",
+        "answerOptions": [
+          { "text": "Aileme veya öğretmenime sorarım", "isCorrect": true },
+          { "text": "Her izni veririm", "isCorrect": false },
+          { "text": "Şifremi gönderirim", "isCorrect": false },
+          { "text": "Telefonumu paylaşırım", "isCorrect": false }
+        ]
+      },
+      {
+        "questionNumber": 24,
+        "question": "İnterneti güvenli kullanmak için hangisi doğrudur?",
+        "answerOptions": [
+          { "text": "Kurallara uymak", "isCorrect": true },
+          { "text": "Her linke tıklamak", "isCorrect": false },
+          { "text": "Şifre paylaşmak", "isCorrect": false },
+          { "text": "Tanımadığa bilgi vermek", "isCorrect": false }
+        ]
+      }
+    ]
+  }
+}

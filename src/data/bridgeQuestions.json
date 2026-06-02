@@ -1,0 +1,210 @@
+{
+  "A": {
+    "questions": [
+      {
+        "questionNumber": 1,
+        "question": "Şifremizi kimseyle ____.",
+        "answerOptions": [
+          { "text": "paylaşmayız", "isCorrect": true },
+          { "text": "oynarız", "isCorrect": false },
+          { "text": "boyarız", "isCorrect": false }
+        ],
+        "hint": "Şifre gizlidir."
+      },
+      {
+        "questionNumber": 2,
+        "question": "Tanımadığımız kişiye adresimizi ____.",
+        "answerOptions": [
+          { "text": "vermeyiz", "isCorrect": true },
+          { "text": "söyleriz", "isCorrect": false },
+          { "text": "göndeririz", "isCorrect": false }
+        ],
+        "hint": "Adres özel bilgidir."
+      },
+      {
+        "questionNumber": 3,
+        "question": "Şüpheli linke hemen ____.",
+        "answerOptions": [
+          { "text": "tıklamayız", "isCorrect": true },
+          { "text": "koşarız", "isCorrect": false },
+          { "text": "çizeriz", "isCorrect": false }
+        ],
+        "hint": "Önce bir büyüğe sor."
+      },
+      {
+        "questionNumber": 4,
+        "question": "Ekrana uzun bakınca ____ veririz.",
+        "answerOptions": [
+          { "text": "mola", "isCorrect": true },
+          { "text": "şifre", "isCorrect": false },
+          { "text": "reklam", "isCorrect": false }
+        ],
+        "hint": "Gözleri dinlendir."
+      },
+      {
+        "questionNumber": 5,
+        "question": "İnternette nazik ve ____ konuşuruz.",
+        "answerOptions": [
+          { "text": "saygılı", "isCorrect": true },
+          { "text": "kırıcı", "isCorrect": false },
+          { "text": "bağırarak", "isCorrect": false }
+        ],
+        "hint": "Güzel söz kullan."
+      },
+      {
+        "questionNumber": 6,
+        "question": "Bilmediğimiz mesajı bir ____ gösteririz.",
+        "answerOptions": [
+          { "text": "büyüğe", "isCorrect": true },
+          { "text": "oyuncağa", "isCorrect": false },
+          { "text": "sandalyeye", "isCorrect": false }
+        ],
+        "hint": "Yardım iste."
+      },
+      {
+        "questionNumber": 7,
+        "question": "Ortak bilgisayarda işimiz bitince hesaptan ____ yaparız.",
+        "answerOptions": [
+          { "text": "çıkış", "isCorrect": true },
+          { "text": "resim", "isCorrect": false },
+          { "text": "oyun", "isCorrect": false }
+        ],
+        "hint": "Hesabı açık bırakma."
+      },
+      {
+        "questionNumber": 8,
+        "question": "Kötü söz görünce öğretmene veya aileye ____ veririz.",
+        "answerOptions": [
+          { "text": "haber", "isCorrect": true },
+          { "text": "kalem", "isCorrect": false },
+          { "text": "top", "isCorrect": false }
+        ],
+        "hint": "Yalnız kalma."
+      },
+      {
+        "questionNumber": 9,
+        "question": "Fotoğraf paylaşmadan önce izin ____.",
+        "answerOptions": [
+          { "text": "alırız", "isCorrect": true },
+          { "text": "atarız", "isCorrect": false },
+          { "text": "sileriz", "isCorrect": false }
+        ],
+        "hint": "Önce sor."
+      },
+      {
+        "questionNumber": 10,
+        "question": "İnternette her bilgi doğru ____.",
+        "answerOptions": [
+          { "text": "olmayabilir", "isCorrect": true },
+          { "text": "şarkıdır", "isCorrect": false },
+          { "text": "oyuncaktır", "isCorrect": false }
+        ],
+        "hint": "Her yazıya inanma."
+      }
+    ]
+  },
+  "B": {
+    "questions": [
+      {
+        "questionNumber": 11,
+        "question": "Güçlü şifrede harf ve ____ olur.",
+        "answerOptions": [
+          { "text": "rakam", "isCorrect": true },
+          { "text": "çorap", "isCorrect": false },
+          { "text": "kaşık", "isCorrect": false }
+        ],
+        "hint": "Şifreyi zor yapar."
+      },
+      {
+        "questionNumber": 12,
+        "question": "Telefon numaramızı yabancılara ____.",
+        "answerOptions": [
+          { "text": "vermeyiz", "isCorrect": true },
+          { "text": "okuruz", "isCorrect": false },
+          { "text": "boyarız", "isCorrect": false }
+        ],
+        "hint": "Numara özel bilgidir."
+      },
+      {
+        "questionNumber": 13,
+        "question": "Oyunda tanımadığımız kişiye şifremizi ____.",
+        "answerOptions": [
+          { "text": "söylemeyiz", "isCorrect": true },
+          { "text": "veririz", "isCorrect": false },
+          { "text": "yollarız", "isCorrect": false }
+        ],
+        "hint": "Şifre gizli kalır."
+      },
+      {
+        "questionNumber": 14,
+        "question": "Gözlerimiz yorulursa ekrana ____ veririz.",
+        "answerOptions": [
+          { "text": "ara", "isCorrect": true },
+          { "text": "ses", "isCorrect": false },
+          { "text": "renk", "isCorrect": false }
+        ],
+        "hint": "Biraz dinlen."
+      },
+      {
+        "questionNumber": 15,
+        "question": "Üzücü mesaj gelirse bir büyüğe ____.",
+        "answerOptions": [
+          { "text": "söyleriz", "isCorrect": true },
+          { "text": "saklarız", "isCorrect": false },
+          { "text": "alkışlarız", "isCorrect": false }
+        ],
+        "hint": "Yardım almak doğru."
+      },
+      {
+        "questionNumber": 16,
+        "question": "İnternette kibar olmak ____ davranıştır.",
+        "answerOptions": [
+          { "text": "doğru", "isCorrect": true },
+          { "text": "kötü", "isCorrect": false },
+          { "text": "tehlikeli", "isCorrect": false }
+        ],
+        "hint": "Nazik ol."
+      },
+      {
+        "questionNumber": 17,
+        "question": "Sahte ödül mesajına hemen ____.",
+        "answerOptions": [
+          { "text": "inanmayız", "isCorrect": true },
+          { "text": "açarız", "isCorrect": false },
+          { "text": "uyuruz", "isCorrect": false }
+        ],
+        "hint": "Ödül mesajı kandırmaca olabilir."
+      },
+      {
+        "questionNumber": 18,
+        "question": "Kamerayı açmadan önce aileden ____ alırız.",
+        "answerOptions": [
+          { "text": "izin", "isCorrect": true },
+          { "text": "kalem", "isCorrect": false },
+          { "text": "top", "isCorrect": false }
+        ],
+        "hint": "Önce sor."
+      },
+      {
+        "questionNumber": 19,
+        "question": "Bilmediğimiz dosyayı hemen ____.",
+        "answerOptions": [
+          { "text": "açmayız", "isCorrect": true },
+          { "text": "yıkarız", "isCorrect": false },
+          { "text": "boyarız", "isCorrect": false }
+        ],
+        "hint": "Dosya zararlı olabilir."
+      },
+      {
+        "questionNumber": 20,
+        "question": "İnternette güvenli olmak için kurallara ____.",
+        "answerOptions": [
+          { "text": "uyarız", "isCorrect": true },
+          { "text": "kızarız", "isCorrect": false },
+          { "text": "koşarız", "isCorrect": false }
+        ],
+        "hint": "Kuralları hatırla."
+      }
+    ]
+  }
+}
