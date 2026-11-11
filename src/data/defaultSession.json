@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 10,
+  "schemaVersion": 12,
   "phase": "intro",
   "activeGameIndex": 0,
   "activeGroup": "A",
@@ -61,10 +61,6 @@
       "bridge": {
         "A": [],
         "B": []
-      },
-      "jar": {
-        "A": [],
-        "B": []
       }
     },
     "customPuzzles": []
@@ -92,15 +88,7 @@
       "durationSeconds": 90,
       "pointsPerCorrect": 10,
       "pointsPerWrong": 0,
-      "targetSteps": 7
-    },
-    {
-      "id": "jar",
-      "title": "Fanus Oyunu",
-      "durationSeconds": 90,
-      "pointsPerCorrect": 10,
-      "pointsPerWrong": -10,
-      "paperCount": 12
+      "targetSteps": 5
     },
     {
       "id": "cup",
@@ -119,6 +107,15 @@
       "pointsPerWrong": 0,
       "pairCount": 10,
       "previewSeconds": 2
+    },
+    {
+      "id": "pacman",
+      "title": "Pacman Oyunu",
+      "durationSeconds": 90,
+      "pointsPerDot": 1,
+      "pointsPerPowerPellet": 10,
+      "pointsPerVirus": 30,
+      "stepMs": 180
     },
     {
       "id": "puzzle",
